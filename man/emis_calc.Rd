@@ -2,7 +2,7 @@
 % Please edit documentation in R/emis_calc.R
 \name{emis_calc}
 \alias{emis_calc}
-\title{Funkcja testowa na razie tylko mnozy dwa argumenty}
+\title{Funkcja testowa mnozy dwa argumenty}
 \usage{
 emis_calc(x, y)
 }
@@ -12,11 +12,12 @@ emis_calc(x, y)
 \item{y}{double}
 }
 \value{
-
+double
 }
 \description{
-Funkcja testowa na razie tylko mnozy dwa argumenty
+Funkcja testowa mnozy dwa argumenty
 }
 \examples{
 emis_calc(3,4)
+
 }
